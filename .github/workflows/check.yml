@@ -1,9 +1,12 @@
 name: Fetch Versions
+permissions:
+  contents: write
 
 on:
   push:
     branches:
     - master
+    
   schedule:
     - cron: '0 0 * * *'
 
