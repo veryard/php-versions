@@ -5820,26 +5820,6 @@
         "version": "7.4.32"
     },
     {
-        "name": "php-7.4.33-nts-Win32-vc15-x64",
-        "url": "https://windows.php.net/downloads/releases/archives/php-7.4.33-nts-Win32-vc15-x64.zip",
-        "version": "7.4.33"
-    },
-    {
-        "name": "php-7.4.33-nts-Win32-vc15-x86",
-        "url": "https://windows.php.net/downloads/releases/archives/php-7.4.33-nts-Win32-vc15-x86.zip",
-        "version": "7.4.33"
-    },
-    {
-        "name": "php-7.4.33-Win32-vc15-x64",
-        "url": "https://windows.php.net/downloads/releases/archives/php-7.4.33-Win32-vc15-x64.zip",
-        "version": "7.4.33"
-    },
-    {
-        "name": "php-7.4.33-Win32-vc15-x86",
-        "url": "https://windows.php.net/downloads/releases/archives/php-7.4.33-Win32-vc15-x86.zip",
-        "version": "7.4.33"
-    },
-    {
         "name": "php-7.4.4-nts-Win32-vc15-x64",
         "url": "https://windows.php.net/downloads/releases/archives/php-7.4.4-nts-Win32-vc15-x64.zip",
         "version": "7.4.4"
@@ -6438,26 +6418,6 @@
         "name": "php-8.0.3-Win32-vs16-x86",
         "url": "https://windows.php.net/downloads/releases/archives/php-8.0.3-Win32-vs16-x86.zip",
         "version": "8.0.3"
-    },
-    {
-        "name": "php-8.0.30-nts-Win32-vs16-x64",
-        "url": "https://windows.php.net/downloads/releases/archives/php-8.0.30-nts-Win32-vs16-x64.zip",
-        "version": "8.0.30"
-    },
-    {
-        "name": "php-8.0.30-nts-Win32-vs16-x86",
-        "url": "https://windows.php.net/downloads/releases/archives/php-8.0.30-nts-Win32-vs16-x86.zip",
-        "version": "8.0.30"
-    },
-    {
-        "name": "php-8.0.30-Win32-vs16-x64",
-        "url": "https://windows.php.net/downloads/releases/archives/php-8.0.30-Win32-vs16-x64.zip",
-        "version": "8.0.30"
-    },
-    {
-        "name": "php-8.0.30-Win32-vs16-x86",
-        "url": "https://windows.php.net/downloads/releases/archives/php-8.0.30-Win32-vs16-x86.zip",
-        "version": "8.0.30"
     },
     {
         "name": "php-8.0.5-nts-Win32-vs16-x64",
