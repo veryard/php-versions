@@ -7460,6 +7460,26 @@
         "version": "8.2.22"
     },
     {
+        "name": "php-8.2.23-nts-Win32-vs16-x64",
+        "url": "https://windows.php.net/downloads/releases/archives/php-8.2.23-nts-Win32-vs16-x64.zip",
+        "version": "8.2.23"
+    },
+    {
+        "name": "php-8.2.23-nts-Win32-vs16-x86",
+        "url": "https://windows.php.net/downloads/releases/archives/php-8.2.23-nts-Win32-vs16-x86.zip",
+        "version": "8.2.23"
+    },
+    {
+        "name": "php-8.2.23-Win32-vs16-x64",
+        "url": "https://windows.php.net/downloads/releases/archives/php-8.2.23-Win32-vs16-x64.zip",
+        "version": "8.2.23"
+    },
+    {
+        "name": "php-8.2.23-Win32-vs16-x86",
+        "url": "https://windows.php.net/downloads/releases/archives/php-8.2.23-Win32-vs16-x86.zip",
+        "version": "8.2.23"
+    },
+    {
         "name": "php-8.2.3-nts-Win32-vs16-x64",
         "url": "https://windows.php.net/downloads/releases/archives/php-8.2.3-nts-Win32-vs16-x64.zip",
         "version": "8.2.3"
